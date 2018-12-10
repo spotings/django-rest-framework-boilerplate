@@ -7,7 +7,7 @@ application.
 Instruction for creating a new application 
 ------------------------------------------
 
-* git clone https://bitbucket.org/spotings/django-rest-framework
+* git clone https://github.com/spotings/django-rest-framework
 * mv django-rest-framework <project-name>
 * git remove rm origin 
 * create a repo in bitbucket
