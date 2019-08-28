@@ -6,7 +6,7 @@ This is the boilerplat used at spotings to create any new django application. Th
 Instruction for creating a new application 
 ------------------------------------------
 
-* git clone https://github.com/spotings/django-rest-framework
+* git clone https://github.com/spotings/django-rest-framework-boilerplate
 * mv django-rest-framework <project-name>
 * git remove rm origin 
 * create a repo in bitbucket
